@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Olá! Seja Bem vindo! 👋</h1>
+<h1 align="center">Olá!</h1>
 <h2 align="center">Me chamo Leandro Langlois</h2>
 
 ---
